@@ -17,4 +17,4 @@ Two buttons that should turn the leds on when pushed.
 - Two LEDs
 - Two resistors 100ohm
 
-Made with skill issues by `@itsme`
+Made with skill issues by `@itsme` on slack.
