@@ -16,3 +16,5 @@ Two buttons that should turn the leds on when pushed.
 - A battery cell
 - Two LEDs
 - Two resistors 100ohm
+
+Made with skill issues by `@itsme`
